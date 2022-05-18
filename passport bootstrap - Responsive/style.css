@@ -1,0 +1,39 @@
+.head {
+    text-align: center;
+    color: darkcyan;
+}
+
+.sec {
+    background-color: lightsalmon;
+}
+
+.file {
+    border: 1px solid gray;
+}
+
+.sub {
+    font-weight: bold;
+    font-size: medium;
+}
+
+.card-title {
+    color: blue;
+    background-color: lightblue;
+}
+
+.subbtn {
+    visibility: hidden;
+}
+
+.error a {
+    color: red;
+    padding-left: 25px;
+}
+
+.capital::placeholder {
+    text-transform: none;
+}
+
+.capital {
+    text-transform: uppercase;
+}
